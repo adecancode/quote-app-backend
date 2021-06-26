@@ -1,2 +1,2 @@
 # quote-app-backend
- a nodejs project
+ a nodejs CRUD project
